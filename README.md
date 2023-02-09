@@ -1,7 +1,9 @@
 ### Hi there 👋
 ## Hello IJSE
 
-Visit IJSE [IJSE-Institute of Software Engineering]([https://ijse.com/](https://www.ijse.lk/)).
+Visit IJSE  [IJSE-Institute of Software Engineering](https://ijse.lk/).
+
+
 
 
 <!--
