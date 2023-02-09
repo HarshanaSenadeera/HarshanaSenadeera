@@ -4,7 +4,7 @@
 Visit IJSE  [IJSE-Institute of Software Engineering](https://ijse.lk/).
 
 <h1 align="center">Hi 👋, I'm Harshana Senadeera</h1>
-<h3 align="center">I'm Student in IJSE</h3>
+<h3 align="center">I'm Student in IJSE from Sri Lanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
