@@ -14,7 +14,20 @@
 - 🌱 I’m currently learning **Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshanaSenadeera/MyPortfolio](https://github.com/HarshanaSenadeera/MyPortfolio)
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=geethdev&label=Profile%20views&color=0e75b6&style=flat" alt="geethdev" /> 
+</p>
 
+<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harshana+Senadeera!;" />
+</h1>
+
+<hr/>
+<br>
+
+
+![snake gif](https://github.com/geethdev/geethdev/blob/output/github-contribution-grid-snake-dark.svg)
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
