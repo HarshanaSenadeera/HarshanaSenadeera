@@ -6,11 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshanasenadeera" alt="harshanasenadeera" /></a> </p>
 
-<p align="center"> 
-  <a href="https://linkedin.com/in/harshanasenadeera" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=linkedin&style=for-the-badge" alt="Connect with LinkedIn" />
-  </a>
-</p>
+
 
 ## 🚀 Who Am I?
 
