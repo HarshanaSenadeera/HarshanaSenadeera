@@ -26,7 +26,7 @@ I'm **Harshana Senadeera**, a passionate **Full-Stack Developer** and **DevOps E
 - **Portfolio Website** (React) - Showcasing my projects, skills, and experience.
 - **Kubernetes Deployment** - Deployed a Spring Boot app to Kubernetes for high availability and scalability.
 
-👉 Explore more at my [GitHub Portfolio](https://github.com/HarshanaSenadeera/MyPortfolio)
+
 
 ---
 
